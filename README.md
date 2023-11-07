@@ -7,7 +7,8 @@ This app was created to save users time creating a logo and/or save them money o
 Inquirer is needed to run this application. Jest was used for testing of this application.
 
 ## Usage
-[Walkthrough Video]()
+[Walkthrough Video](https://youtu.be/JQ4XxQ3Ytbc)
+
 ## Credits
 N/A
 
