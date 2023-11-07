@@ -10,10 +10,10 @@ inquirer.prompt([
     message: 'Please enter up to three characters.',
   },
   {
-    type: 'list',
+    type: 'type',
     name: 'textColor',
-    message: 'Please enter a color keyword or a hexadecimal value.',
-    choices: ['Red', 'Blue', 'Green', 'Black', 'White']
+    message: 'Please enter a color keyword for your text.',
+    
   },
   {
     type: 'list',
@@ -22,10 +22,10 @@ inquirer.prompt([
     choices: ['Circle', 'Triangle', 'Square'],
   },
   {
-    type: 'list',
+    type: 'type',
     name: 'shapeColor',
-    message: 'Please enter a color keyword or a hexadecimal value.',
-    choices: ['Red', 'Blue', 'Green','Black', 'White']
+    message: 'Please enter a color keyword for your shape.',
+  
   },
 ]).then(response => {
   var userShapeSelection;
