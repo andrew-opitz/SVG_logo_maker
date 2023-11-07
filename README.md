@@ -4,10 +4,10 @@
 This app was created to save users time creating a logo and/or save them money on hiring a desginer. A user is prompted for text, text color, shape and shape color and generates an SVG based on their inputs.
 
 ## Installation
-Inquirer is needed to run this application.
+Inquirer is needed to run this application. Jest was used for testing of this application.
 
 ## Usage
-
+[Walkthrough Video]()
 ## Credits
 N/A
 
